@@ -69,8 +69,7 @@ CREATE TABLE `khach_hang` (
 --
 
 INSERT INTO `khach_hang` (`id`, `ho`, `ten`, `username`, `pass`, `email`, `dia_chi`, `sdt`) VALUES
-(4, 'Hải ', 'Huy', 'huy246', 'huy123', 'auhaihuy246@gmail.com', '183 Đường Đỗ Bí Phường Phú Thạnh Quận Tân Phú', '0979487154'),
-(5, 'Chó ', 'Đạc', 'chodac', '123', 'chodac@ANLON.com', '456 bucu Street', '6969696969');
+(4, 'Hải ', 'Huy', 'huy246', 'huy123', 'auhaihuy246@gmail.com', '183 Đường Đỗ Bí Phường Phú Thạnh Quận Tân Phú', '0979487154');
 
 -- --------------------------------------------------------
 
